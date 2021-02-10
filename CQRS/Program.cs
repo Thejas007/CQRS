@@ -1,5 +1,6 @@
 ﻿namespace CQRS
 {
+    using System;
     using Interfaces;
     using Queries;
     using Unity;
